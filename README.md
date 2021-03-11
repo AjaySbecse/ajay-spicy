@@ -3,4 +3,4 @@ This is the simple single page website. I have practice some advanced concept of
 ## Website deploy
 I deployed this website on firebase.
 ##Website Link
-### ajay-spicy-website.web.app
+### https://ajay-spicy-website.web.app
